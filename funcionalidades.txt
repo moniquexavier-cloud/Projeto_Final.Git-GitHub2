@@ -1,1 +1,2 @@
-
+git log - Veja a lista de commits feitos no repositório em ordem cronológica inversa
+git pull - Baixe as alterações do repositório remoto para o seu local de trabalho
