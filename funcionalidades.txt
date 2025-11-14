@@ -1,1 +1,3 @@
-
+git log - Veja a lista de commits feitos no repositório em ordem cronológica inversa
+git pull - Baixe as alterações do repositório remoto para o seu local de trabalho
+git status - Veja quais arquivos foram modificados ou adicionados, e quais estão prontos para serem "stageados" (adicionados à área de staging)
